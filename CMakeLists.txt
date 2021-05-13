@@ -1,7 +1,7 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.0)
 project(tango_icons_vendor)
 
-find_package(ament_cmake REQUIRED)
+find_package(catkin REQUIRED)
 
 if(WIN32 OR APPLE)
   set(INSTALL_TANGO_ICONS_DEFAULT_VALUE TRUE)
@@ -15,9 +15,4 @@ if(INSTALL_TANGO_ICONS)
     DESTINATION share/${PROJECT_NAME})
 endif()
 
-if(BUILD_TESTING)
-  find_package(ament_lint_auto REQUIRED)
-  ament_lint_auto_find_test_dependencies()
-endif()
-
-ament_package()
+catkin_package()

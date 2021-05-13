@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "C:/Code/ros/workspaces/noenpe_ws/devel\\lib/site-packages",
+        "C:/Code/ros/workspaces/noethp_ws/devel\\lib/site-packages",
+        "C:/Users/dan/miniconda3/envs/noetic/Library\\lib/site-packages"
+    ]
+}

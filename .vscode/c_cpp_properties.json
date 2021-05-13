@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "C:\\Code\\ros\\workspaces\\noenpe_ws\\devel\\include\\**",
+        "C:\\Code\\ros\\workspaces\\noethp_ws\\devel\\include\\**",
+        "C:\\usr\\x64\\include\\**",
+        "C:\\Users\\dan\\miniconda3\\envs\\noetic\\Library\\include\\**",
+        "C:\\Code\\ros\\workspaces\\noenpe_ws\\src\\npe_autogen_helpers\\include\\**",
+        "C:\\Code\\ros\\workspaces\\noenpe_ws\\src\\npe_kinematics\\include\\**",
+        "C:\\Code\\ros\\workspaces\\noenpe_ws\\src\\npe_ros\\npe_rmp_demo\\include\\**",
+        "C:\\Code\\ros\\workspaces\\noenpe_ws\\src\\npe_throwaway_node\\include\\**",
+        "C:\\Code\\ros\\workspaces\\noethp_ws\\src\\robotiq_85_gripper\\robotiq_85_simulation\\roboticsgroup_gazebo_plugins\\include\\**",
+        "C:\\Code\\ros\\workspaces\\noethp_ws\\src\\universal_robot\\ur_kinematics\\include\\**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
